@@ -4,3 +4,7 @@ uploads/
 known/
 static/snapshots/
 encodings.pkl
+!known/.gitkeep
+!static/.gitkeep
+!static/snapshots/.gitkeep
+!uploads/.gitkeep
