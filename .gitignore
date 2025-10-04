@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+uploads/
+known/
+static/snapshots/
+encodings.pkl
