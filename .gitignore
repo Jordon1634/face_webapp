@@ -1,10 +1,15 @@
 venv/
 __pycache__/
-uploads/
-known/
-static/snapshots/
 encodings.pkl
+
+# ignore everything in these data dirs...
+known/*
+uploads/*
+static/*
+static/snapshots/*
+
+# ...but keep the placeholders so dirs appear on GitHub
 !known/.gitkeep
+!uploads/.gitkeep
 !static/.gitkeep
 !static/snapshots/.gitkeep
-!uploads/.gitkeep
