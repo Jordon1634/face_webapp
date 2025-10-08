@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ---
 
-##Usage
+## Usage
 
 Start the app
 python app.py
@@ -86,7 +86,7 @@ http://127.0.0.1:5000
 
 ---
 
-##Notes
+## Notes
 
 •	Empty folders (known/, uploads/, static/, etc.) are kept with .gitkeep so the app runs out of the box.
 	•	Encodings are cached in encodings.pkl for faster reloads. Delete this file if you update the known/ folder manually.
@@ -94,7 +94,7 @@ http://127.0.0.1:5000
 
 ---
 
-##License
+## License
 
 This project is for educational and training purposes.
 Use responsibly.
